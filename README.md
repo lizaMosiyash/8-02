@@ -22,5 +22,7 @@
 
 ### Задание 3
 
-![Скрипт](https://github.com/lizaMosiyash/screenshots/blob/main/ex3_pipeline.PNG)
-![Результат](https://github.com/lizaMosiyash/screenshots/blob/main/ex3_res.PNG)
+![Скрипт](https://github.com/lizaMosiyash/screenshots/blob/main/ex3_script.PNG)
+![лог1](https://github.com/lizaMosiyash/screenshots/blob/main/ex3_log1.PNG)
+![лог1](https://github.com/lizaMosiyash/screenshots/blob/main/ex3_log2.PNG)
+![Результат](https://github.com/lizaMosiyash/screenshots/blob/main/nexus.PNG)
